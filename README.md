@@ -1,9 +1,4 @@
 # Scrapes-New-and-Summaries-
-Same time, more info, more news using Natural Lanaguge Processing techniques
+We are experiencing a information booming period, design an algo to generate the key idea / summary from the news.
 
-
-This code gives you the access to short summaries of prolong market news
-
-Using the same time you could now exposed to various information resources 
- 
- Orginial code from 
+Current: eyeball modelling the accuarcy is about 60-65% accurate while it still lost moderate amount of info. 
